@@ -9,7 +9,7 @@ This project demonstrates my understanding of the Risk Management Framework (RMF
 | File | Description |
 |------|-------------|
 | `System_Security_Plan.pdf` | A comprehensive System Security Plan (SSP) that details system categorization, access controls, remote access policies, and continuous monitoring strategies. |
-| `POAM.pdf` | A Plan of Action and Milestones (POA&M) tracking three sample vulnerabilities with mitigation actions and timelines. |
+| `POAM.xlsx` | A Plan of Action and Milestones (POA&M) tracking three sample vulnerabilities with mitigation actions and timelines. |
 | `README.md` | This overview and project explanation. |
 
 ---
@@ -17,7 +17,7 @@ This project demonstrates my understanding of the Risk Management Framework (RMF
 ## 📑 Quick Previews
 
 - [📄 View SSP as PDF](System_Security_Plan.pdf)
-- [📄 View POA&M as PDF](POAM.pdf)
+- [📊 View POA&M as Excel File](POAM.xlsx)
 
 ---
 
