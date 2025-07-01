@@ -31,6 +31,7 @@ This project showcases my ability to:
 
 ---
 
-## 🔗 Why It Matters
+## 🔗 Why This Matters
 
-As a senior cybersecurity student with Security+ certification and hands-on experience in vulnerability management and Azure-based security operations, I am well-prepared to support roles like Product Security Engineer. This project aligns directly with real-world expectations at organizations that require strong RMF knowledge, compliance documentation, and system hardening skills.
+This project demonstrates my ability to create RMF documentation aligned with NIST SP 800-53 controls—key skills for cybersecurity roles supporting federal systems. By authoring an SSP and POA&M, I show readiness to support ATO processes, address security control gaps, and contribute to continuous compliance efforts in regulated environments.
+
