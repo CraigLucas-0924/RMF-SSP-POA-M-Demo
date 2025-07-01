@@ -33,4 +33,4 @@ This project showcases my ability to:
 
 ## 🔗 Why It Matters
 
-As a senior cybersecurity student with Security+ certification and hands-on experience in vulnerability management and Azure-based security operations, I am well-prepared to support roles like Product Security Engineer. This project aligns directly with real-world expectations at organizations such as Boeing that require strong RMF knowledge, compliance documentation, and system hardening skills.
+As a senior cybersecurity student with Security+ certification and hands-on experience in vulnerability management and Azure-based security operations, I am well-prepared to support roles like Product Security Engineer. This project aligns directly with real-world expectations at organizations that require strong RMF knowledge, compliance documentation, and system hardening skills.
